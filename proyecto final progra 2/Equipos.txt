@@ -1,0 +1,25 @@
+Nombre del equipo TTT
+Integrante 1
+Nombre: AAAA
+Edad: 11 
+carrera: G
+Integrante 2
+Nombre: H
+Edad: 8 
+carrera: T
+Integrante 3
+Nombre: F
+Edad: 9 
+carrera: GGNombre del equipo UUUII
+Integrante 1
+Nombre: H
+Edad: 9 
+carrera: J
+Integrante 2
+Nombre: J
+Edad: 9 
+carrera: H
+Integrante 3
+Nombre: H
+Edad: 6 
+carrera: H

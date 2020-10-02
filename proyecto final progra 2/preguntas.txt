@@ -1,0 +1,30 @@
+1. ¿Qué es un conjunto?
+2. ¿Cómo se obtiene la norma de un complejo?
+3. ¿Cómo saber si un número es divisible entre 2?
+4. Identifica el número que falta: 3,5,9,15,__,33
+5. ¿Quién descubrió la forma más sencilla de sumar 1+2+..+n?
+6. ¿Qué es una sucesión?
+7. ¿Qué dice el criterio LAL?
+8. Menciona el uso principal de la integral definida
+9. En el plano cartesiano ¿En qué cuadrante únicamente el seno es positivo?
+10. ¿Cuánto vale un radian?
+11. ¿Para qué sirve apretar ctrl+c?
+12. Dame tres ejemplos de Software de propósito específico.
+13. ¿Qué es una computadora?
+14. ¿Qué es la programación?  
+15. ¿Para qué sirve “if” en lenguaje c?
+16. ¿Cuál es la capa más baja en una red de cómputo?
+17.  En cómputo ¿Qué es un proceso?
+18.¿Para qué se utiliza una estructura en c? 
+19.¿Cuál es la función de un puntero? 
+20.¿Para qué usamos “define” en c?
+21. ¿Qué es una paradoja?
+22. ¿Qué es una palabra Sobreesdrújula?
+23. Sirven para indicar gráficamente la entonación que corresponde a la pregunta ¿Qué es?
+24. ¿Qué es un párrafo descriptivo?
+25. ¿Qué es un diptongo?
+26.  ¿Qué es un poema?
+27. ¿Cómo se le conoce al verso que contiene 14 sílabas?
+28.  ¿Qué es una palabra Grave?
+29.  ¿Por qué elementos se pueden reemplazar a los paréntesis?
+30. ¿Cómo se pueden medir la cantidad sílabas de una palabra, sin separarlas como normalmente se hace?
